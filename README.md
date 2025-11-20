@@ -52,8 +52,8 @@ I love working with DevOps tools, automation frameworks, cloud-native technologi
 
 ## 📈 GitHub Stats
 
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehulkumari&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkumari&layout=compact&theme=tokyonight)
 
 ---
 
